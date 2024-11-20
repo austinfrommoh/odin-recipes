@@ -7,15 +7,15 @@ odin-recipes is an introductory project from The Odin Project designed to give a
 The final product of odin-recipes is a basic HTML webpage which shows the instructions for three dishes.
 
 TIMELINE AND CURRENT STATUS:
-Status: Iteration 1 Complete
+Status: Iteration 2 In Progress
 Project Timeline and Tasks:
   Iteration 1: Initial Structure - Complete
     1. Create index.html - Complete
     2. Add boilerplate and h1 with "Odin Recipes" - Complete
-  Iteration 2: Recipe Page
-    1. Create new dir named recipes
-    2. Create html file named after recipe it will contain
-    3. Insert h1 with recipe name
+  Iteration 2: Recipe Page - In Progress
+    1. Create new dir named recipes - Complete
+    2. Create html file named after recipe it will contain - Complete
+    3. Insert h1 with recipe name - Complete
     4. In index.html, add link to recipe page
   Iteration 3: Recipe Page Content
     1. Add image of finished dish under h1
