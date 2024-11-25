@@ -19,9 +19,9 @@ Project Timeline and Tasks:
     4. In index.html, add link to recipe page - Complete
   Iteration 3: Recipe Page Content - In Progress 
     1. Add image of finished dish under h1 - Complete
-    2. Add description heading followed by paragraph describing recipe
-    3. Under the description, add ingredients heading with unordered list of ingredients
-    4. Under ingredients list, add steps heading with ordered list of steps for making the dish
+    2. Add description heading followed by paragraph describing recipe - Complete
+    3. Under the description, add ingredients heading with unordered list of ingredients - Complete
+    4. Under ingredients list, add steps heading with ordered list of steps for making the dish - Complete
   Iteration 4: Add More Recipes
     1. Add two more recipes with identical page structure as the one created in iteration 3
     2. Link new recipes on index page, putting all as unordered list
